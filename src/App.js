@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import HeadNav from './components/Nav/HeadNav';
 import SideBar from './components/Nav/SideBar';
 import Materials from './components/Storage/Materials';
+//Phuog write
+import Login from './components/Login';
+mport './Login.css';
 import './App.css';
 
 class App extends Component {
